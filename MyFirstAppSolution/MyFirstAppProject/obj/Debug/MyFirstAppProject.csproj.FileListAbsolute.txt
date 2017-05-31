@@ -1,0 +1,6 @@
+C:\repos\visualstudio\MyFirstAppSolution\MyFirstAppProject\bin\Debug\MyFirstAppProject.exe.config
+C:\repos\visualstudio\MyFirstAppSolution\MyFirstAppProject\bin\Debug\MyFirstAppProject.exe
+C:\repos\visualstudio\MyFirstAppSolution\MyFirstAppProject\bin\Debug\MyFirstAppProject.pdb
+C:\repos\visualstudio\MyFirstAppSolution\MyFirstAppProject\obj\Debug\MyFirstAppProject.csprojResolveAssemblyReference.cache
+C:\repos\visualstudio\MyFirstAppSolution\MyFirstAppProject\obj\Debug\MyFirstAppProject.exe
+C:\repos\visualstudio\MyFirstAppSolution\MyFirstAppProject\obj\Debug\MyFirstAppProject.pdb
