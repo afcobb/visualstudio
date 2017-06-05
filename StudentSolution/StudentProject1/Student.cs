@@ -55,7 +55,6 @@ namespace StudentProject1 {
         public void Print() {
             Console.WriteLine(firstName + " " + lastName + "|" + email + "|" + phone);
             Console.ReadKey();
-
         }
     }
 }
