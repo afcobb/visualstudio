@@ -13,6 +13,11 @@ namespace StudentProject1 {
             return response; //this tells us to return the response string
         }
 
+        string Fibonacci(string fib) {
+            Console.Write(fib);
+          
+        }
+
         void Run() {
             Student student = new Student(); // (this is a constructor), method name = same as class.
 
@@ -34,7 +39,7 @@ namespace StudentProject1 {
             //string tempEmail = Console.ReadLine();
 
             student.EnterEmail(tempEmail);
-            string tempPhone = PromptUserInput("Enter Phone: ");
+                string tempPhone = PromptUserInput("Enter Phone: ");
             //Console.Write("Enter Phone:  ");
             //string tempPhone = Console.ReadLine();
 

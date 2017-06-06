@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; //using statements fully qualify the entire app 
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace MyFirstAppProject
 { 
     class Program {
         static void MyFirstMethod() {
-            Console.WriteLine("Main is nearly finished :p");
+            Console.WriteLine("Main is nearly finished");
             Console.ReadKey();
         }
         static void Main(string[] args) {
