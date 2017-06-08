@@ -59,6 +59,17 @@ namespace BankingProject {
         }
         static void Main(string[] args) {
             (new Program()).Run();
+
+        }
+        //catch goes in PROGRAM
+
+        public void Display() {
+        catch (InsufficientFundsException) {
+                Console.WriteLine("You have insufficient funds");
+                Console.WriteLine("...press any key...");
+                Console.ReadKey();
+
+            }
         }
     }
 }
